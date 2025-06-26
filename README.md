@@ -1,4 +1,4 @@
-# UniSphere - University Community Platform
+![image](https://github.com/user-attachments/assets/320a3391-b646-43d1-b2f8-a68adf8ab7bf)![image](https://github.com/user-attachments/assets/d9785fb5-d3e2-4ed9-b2f0-c576db20f5ef)# UniSphere - University Community Platform
 **Live Website:** https://uni-sphere-umber.vercel.app/
 
 **A comprehensive university community platform that revolutionizes how students, clubs, and administrators interact, manage events, and build communities within the university ecosystem.**
@@ -176,4 +176,45 @@ Comprehensive analytics and management tools providing insights into student eng
 - EmailJS account for email functionality
 
 ### Demo and ScreenShots
+### USER
+![image](https://github.com/user-attachments/assets/d2ad2a16-0d6b-4968-b3d5-d01c5d88ae60)
+
+![image](https://github.com/user-attachments/assets/fbb8d0e7-a512-42b8-a464-f209a2371b19)
+
+![image](https://github.com/user-attachments/assets/047eef86-9227-442f-84dd-34975dabd623)
+
+![image](https://github.com/user-attachments/assets/ff6bbd24-64cb-4b08-98e6-0c50f0ec4af9)
+
+![image](https://github.com/user-attachments/assets/db420095-54b8-4171-8201-a3290ff15905)
+
+![image](https://github.com/user-attachments/assets/a5a7e794-3157-4df4-af9d-49a2243d5f4e)
+
+![image](https://github.com/user-attachments/assets/db420095-54b8-4171-8201-a3290ff15905)
+
+![image](https://github.com/user-attachments/assets/4902c5b7-ad5b-4cbc-b035-d2a8b4afb1ae)
+
+![image](https://github.com/user-attachments/assets/378173e9-805c-45ec-b848-2069675325f5)
+
+### ADMIN
+![image](https://github.com/user-attachments/assets/2a6db710-7b62-429a-9f3b-a37e12ead426)
+
+![image](https://github.com/user-attachments/assets/15a45134-b2bc-46b6-b272-15a3a2bf0344)
+
+![image](https://github.com/user-attachments/assets/d9785fb5-d3e2-4ed9-b2f0-c576db20f5ef)
+
+![image](https://github.com/user-attachments/assets/320a3391-b646-43d1-b2f8-a68adf8ab7bf)
+
+![image](https://github.com/user-attachments/assets/935d71d8-67ca-4fb3-87b7-5d0a61bb2242)
+
+![image](https://github.com/user-attachments/assets/25e94479-01bf-4ffe-99d2-ecb2032fc452)
+
+![image](https://github.com/user-attachments/assets/16264bc7-4d25-4f47-a710-f8c98a43870c)
+
+
+
+
+
+
+
+
 
