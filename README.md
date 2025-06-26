@@ -1,4 +1,5 @@
 # UniSphere - University Community Platform
+**Live Website:** https://uni-sphere-umber.vercel.app/
 
 **A comprehensive university community platform that revolutionizes how students, clubs, and administrators interact, manage events, and build communities within the university ecosystem.**
 
@@ -174,5 +175,5 @@ Comprehensive analytics and management tools providing insights into student eng
 - Cloudinary account for file management
 - EmailJS account for email functionality
 
-### Clone and Install
+### Demo and ScreenShots
 
