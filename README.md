@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/320a3391-b646-43d1-b2f8-a68adf8ab7bf)![image](https://github.com/user-attachments/assets/d9785fb5-d3e2-4ed9-b2f0-c576db20f5ef)# UniSphere - University Community Platform
+# UniSphere - University Community Platform
 **Live Website:** https://uni-sphere-umber.vercel.app/
 
 **A comprehensive university community platform that revolutionizes how students, clubs, and administrators interact, manage events, and build communities within the university ecosystem.**
