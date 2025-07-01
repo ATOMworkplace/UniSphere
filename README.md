@@ -6,7 +6,6 @@
 ![image](https://github.com/user-attachments/assets/d2ad2a16-0d6b-4968-b3d5-d01c5d88ae60)
 
 ## SITUATION
-
 ### Current Challenges in University Event Management
 
 **Fragmented Communication Systems**
